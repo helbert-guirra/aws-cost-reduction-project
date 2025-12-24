@@ -9,7 +9,7 @@ Este repositório contém um relatório conceitual sobre a utilização de servi
 
  ## Arquitetura Proposta
 
-![Arquitetura AWS](imagens/arquitetura-aws.png)
+![Arquitetura AWS](image/arquitetura-aws.png)
 
 ![Arquitetura AWS]
 
