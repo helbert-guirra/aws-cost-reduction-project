@@ -7,6 +7,12 @@ Este repositório contém um relatório conceitual sobre a utilização de servi
 - Amazon S3
 - Amazon RDS
 
+ ## Arquitetura Proposta
+
+![Arquitetura AWS](imagens/arquitetura-aws.png)
+
+![Arquitetura AWS]
+
 ## Objetivo
 Demonstrar, de forma prática e didática, como a computação em nuvem pode reduzir custos e aumentar a eficiência das empresas.
 
